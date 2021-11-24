@@ -8,3 +8,8 @@
 jalbert73/jalbert73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+for new repo's from local do
+
+create repo github
+
+git push --set-upstream origin master
